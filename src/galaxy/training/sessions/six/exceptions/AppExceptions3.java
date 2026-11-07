@@ -1,6 +1,6 @@
-package pe.edu.java.galaxy.training.errorsexceptions;
+package galaxy.training.sessions.six.exceptions;
 
-public class AppExceptionv3 {
+public class AppExceptions3 {
 
 	public static void main(String[] args) throws Exception {
 		try {

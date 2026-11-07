@@ -7,7 +7,7 @@ public class PrimaryException {
             int n2 = 1;
             int n3 = n1 / n2;
 
-            System.out.println("Resultado: " + n3);
+            System.out.println("Resultant: " + n3);
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
             throw e;

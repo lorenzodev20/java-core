@@ -1,6 +1,6 @@
 package galaxy.training.sessions.six.exceptions;
 
-public class AppExceptionv5 {
+public class AppExceptions5 {
 
 	public static void main(String[] args) {
 		String n;
