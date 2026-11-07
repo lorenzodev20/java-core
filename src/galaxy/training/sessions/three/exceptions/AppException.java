@@ -1,4 +1,4 @@
-package galaxy.training.sessions.six.exceptions;
+package galaxy.training.sessions.three.exceptions;
 
 public class AppException {
 
