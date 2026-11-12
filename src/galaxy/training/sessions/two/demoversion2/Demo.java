@@ -1,4 +1,4 @@
-package pe.edu.galaxy.training.java.core;
+package galaxy.training.sessions.two.demoversion2;
 
 public class Demo {
 

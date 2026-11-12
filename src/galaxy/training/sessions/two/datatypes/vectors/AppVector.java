@@ -1,4 +1,4 @@
-package pe.edu.galaxy.training.java.jd0.app;
+package galaxy.training.sessions.two.datatypes.vectors;
 
 import java.util.Vector;
 

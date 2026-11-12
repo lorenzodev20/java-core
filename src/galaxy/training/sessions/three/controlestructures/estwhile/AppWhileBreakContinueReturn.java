@@ -1,4 +1,4 @@
-package pe.edu.galaxy.training.java.core.estwhile;
+package galaxy.training.sessions.three.controlestructures.estwhile;
 
 public class AppWhileBreakContinueReturn {
 

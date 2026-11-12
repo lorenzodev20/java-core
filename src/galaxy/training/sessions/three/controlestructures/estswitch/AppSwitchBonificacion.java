@@ -1,4 +1,4 @@
-package pe.edu.galaxy.training.java.core.estswitch;
+package galaxy.training.sessions.three.controlestructures.estswitch;
 
 public class AppSwitchBonificacion {
 

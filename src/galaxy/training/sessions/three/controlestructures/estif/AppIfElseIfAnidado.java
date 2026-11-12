@@ -1,4 +1,4 @@
-package pe.edu.galaxy.training.java.core.estif;
+package galaxy.training.sessions.three.controlestructures.estif;
 
 public class AppIfElseIfAnidado {
 
